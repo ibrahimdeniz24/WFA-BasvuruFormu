@@ -1,0 +1,10 @@
+C:\Users\ibrah\Desktop\Bilge Adam\WfaCsharpDersleri\WFAbasvuruFormu\WFAbasvuruFormu\bin\Debug\WFAbasvuruFormu.exe.config
+C:\Users\ibrah\Desktop\Bilge Adam\WfaCsharpDersleri\WFAbasvuruFormu\WFAbasvuruFormu\bin\Debug\WFAbasvuruFormu.exe
+C:\Users\ibrah\Desktop\Bilge Adam\WfaCsharpDersleri\WFAbasvuruFormu\WFAbasvuruFormu\bin\Debug\WFAbasvuruFormu.pdb
+C:\Users\ibrah\Desktop\Bilge Adam\WfaCsharpDersleri\WFAbasvuruFormu\WFAbasvuruFormu\obj\Debug\WFAbasvuruFormu.csproj.AssemblyReference.cache
+C:\Users\ibrah\Desktop\Bilge Adam\WfaCsharpDersleri\WFAbasvuruFormu\WFAbasvuruFormu\obj\Debug\WFAbasvuruFormu.Form1.resources
+C:\Users\ibrah\Desktop\Bilge Adam\WfaCsharpDersleri\WFAbasvuruFormu\WFAbasvuruFormu\obj\Debug\WFAbasvuruFormu.Properties.Resources.resources
+C:\Users\ibrah\Desktop\Bilge Adam\WfaCsharpDersleri\WFAbasvuruFormu\WFAbasvuruFormu\obj\Debug\WFAbasvuruFormu.csproj.GenerateResource.cache
+C:\Users\ibrah\Desktop\Bilge Adam\WfaCsharpDersleri\WFAbasvuruFormu\WFAbasvuruFormu\obj\Debug\WFAbasvuruFormu.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\Desktop\Bilge Adam\WfaCsharpDersleri\WFAbasvuruFormu\WFAbasvuruFormu\obj\Debug\WFAbasvuruFormu.exe
+C:\Users\ibrah\Desktop\Bilge Adam\WfaCsharpDersleri\WFAbasvuruFormu\WFAbasvuruFormu\obj\Debug\WFAbasvuruFormu.pdb
